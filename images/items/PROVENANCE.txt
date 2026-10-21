@@ -1,3 +1,5 @@
 Minecraft Java 1.8.9 item textures, extracted from the Mojang client download.
 https://launcher.mojang.com/v1/objects/3870888a6c3d349d3771a3e9d16c9bf5e076b908/client.jar
 Used for the Minecraft inventory practice illustration. Minecraft assets belong to Mojang/Microsoft.
+
+planks_inventory.png and stone_inventory.png: inventory block renders supplied by the user on October 21, 2026. Copied without modification.

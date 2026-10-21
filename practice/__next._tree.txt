@@ -1,6 +1,6 @@
 :HL["/mmcpvp-preview/_next/static/css/6a57768de436fc68.css","style"]
-:HL["/mmcpvp-preview/_next/static/css/b69099b227682f78.css","style"]
+:HL["/mmcpvp-preview/_next/static/css/ef26b323da911307.css","style"]
 :HL["/mmcpvp-preview/fonts/mokoto.otf","font",{"crossOrigin":"anonymous","type":"font/otf"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"practice","h":64,"c":"$Q2"}]]
-0:{"b":"ven4AApxkbxH2mKfM4mwn","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"23TGfFKpiiY8x-rsGCQ-P","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
