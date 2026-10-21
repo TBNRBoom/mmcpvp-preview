@@ -3,3 +3,5 @@ https://launcher.mojang.com/v1/objects/3870888a6c3d349d3771a3e9d16c9bf5e076b908/
 Used for the Minecraft inventory practice illustration. Minecraft assets belong to Mojang/Microsoft.
 
 planks_inventory.png and stone_inventory.png: inventory block renders supplied by the user on October 21, 2026. Copied without modification.
+
+potion_overlay.png: original liquid mask extracted from the same official 1.8.9 client on October 21, 2026; used as a CSS mask without modifying the source texture.
