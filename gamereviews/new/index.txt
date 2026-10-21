@@ -16,16 +16,16 @@ f:"ViewportBoundary"
 8:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","section",null,{"className":"container section","children":[["$","span",null,{"className":"eyebrow","children":"WEBSITE PREVIEW"}],["$","h1",null,{"children":"Keep exploring."}],["$","p",null,{"children":"Accounts and game review submissions need the full app. Lessons and practice work here, and lesson progress saves on this browser."}],["$","$Lb",null,{"className":"button","href":"/practice","children":"Go to practice"}]]}],null,["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]]}],"p":false,"v":null}}]]
 7:[["children",{"s":"new","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$6"},"c":"$Q8"}]]
 3:[["children",{"s":"gamereviews","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$6"},"c":"$Q7"}]]
-0:{"P":null,"c":["","gamereviews","new",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/mmcpvp-preview/_next/static/css/6a57768de436fc68.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],"$L2"]}],"p":false,"v":null},"c":"$Q3"},"h":{"r":["$","$1","h",{"children":[null,["$","$L10",null,{"children":"$L11"}],["$","$L13",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$d",null,{"name":"Next.Metadata","children":"$L14"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$15",[]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"gDyOxbTkWNnxrqaarU8Zb"}
+0:{"P":null,"c":["","gamereviews","new",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/mmcpvp-preview/_next/static/css/6a57768de436fc68.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],"$L2"]}],"p":false,"v":null},"c":"$Q3"},"h":{"r":["$","$1","h",{"children":[null,["$","$L10",null,{"children":"$L11"}],["$","$L13",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$d",null,{"name":"Next.Metadata","children":"$L14"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$15",[]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"G17R_Eb4hMw93JQOnMopE"}
 16:"static/chunks/564-7713a0a069de0e50.js"
 17:"static/chunks/230-48610768bb5d6684.js"
-18:"static/chunks/app/layout-ed4cd246637453d8.js"
+18:"static/chunks/app/layout-a9943c6f62742458.js"
 19:I[7230,["709","$9","564","$16","230","$17","177","$18"],"SiteProvider"]
 1a:I[3857,["709","$9","564","$16","230","$17","177","$18"],"Header"]
-1b:"static/chunks/app/error-42abf2bd1c3a7171.js"
+1b:"static/chunks/app/error-7dad4e55f81ac98b.js"
 1c:I[3448,["39","$1b"],"default"]
 1d:"static/chunks/770-41c94c65769c286c.js"
-1e:"static/chunks/app/page-7103e31e77796555.js"
+1e:"static/chunks/app/page-f8819f741cd72981.js"
 1f:I[7898,["709","$9","230","$17","770","$1d","974","$1e"],"default"]
 :HL["/mmcpvp-preview/fonts/mokoto.otf","font",{"crossOrigin":"anonymous","type":"font/otf"}]
 6:C
