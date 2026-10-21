@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fgamemodes\u002F[mode]","\u002Flessons\u002F[level]","\u002Flessons\u002F[level]\u002F[slug]","\u002Fposts\u002F[id]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()

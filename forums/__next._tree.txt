@@ -1,0 +1,5 @@
+:HL["/mmcpvp-preview/_next/static/css/6a57768de436fc68.css","style"]
+:HL["/mmcpvp-preview/fonts/mokoto.otf","font",{"crossOrigin":"anonymous","type":"font/otf"}]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"forums","h":64,"c":"$Q2"}]]
+0:{"b":"xNdGZ_2kmhMbjAeDRHjxC","t":{"t":{"s":"","h":16,"c":"$Q1"}}}

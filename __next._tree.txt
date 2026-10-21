@@ -1,0 +1,5 @@
+:HL["/mmcpvp-preview/_next/static/css/6a57768de436fc68.css","style"]
+:HL["/mmcpvp-preview/fonts/mokoto.otf","font",{"crossOrigin":"anonymous","type":"font/otf"}]
+:HL["/mmcpvp-preview/images/fishing-rod-cutout.png","image"]
+1:[["children",{"s":"__PAGE__","h":128}]]
+0:{"b":"xNdGZ_2kmhMbjAeDRHjxC","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
